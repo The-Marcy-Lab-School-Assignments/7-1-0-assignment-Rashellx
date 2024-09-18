@@ -16,7 +16,7 @@ const PokemonForm = () => {
         const options = {                         //information needed for this request
             method: "POST",
             headers: {
-                "Content-Type": "apllication/j.son"
+                "Content-Type": "application/json"
             },
             body: JSON.stringify({ name: name, hp: hp, front: frontUrl, back: backUrl })
         }

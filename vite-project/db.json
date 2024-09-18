@@ -83,6 +83,20 @@
       "hp": 60,
       "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+    },
+    {
+      "name": "Rashell",
+      "hp": "7",
+      "front": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhIVFRUXGBgXFRcYFRYVFhcWFxoXFxcYFRUYHSggGBolGxUVITEiJSkrLi4uFx8zODMtOCguLisBCgoKDg0OGxAQGi0dICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALUBFgMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAIDBAYBBwj/xAA/EAABAwIEBAQCCAUDAwUAAAABAAIRAyEEEjFBBSJRYQYTcYEykQdCUqGxwdHwFCNicvEzkuEVotIkU2OCsv/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAIREBAQACAgMBAAMBAAAAAAAAAAECESExAxJBEzJRYXH/2gAMAwEAAhEDEQA/APV2/EiWE0KG7ojgzqlERZSSSTWSSSSA5lHRNNMdE9JAR+UEvJCkSS1Ai8gJpw6nSRqBVOGPZcOH7K2kl6wKZw3ZRvoHoiCSPUBBH9JSyBF1Xq0xmS9S08X4xhYqYpoNvPeTykb2k2n7wgXC6kPdSzZW1IAd8JbUHNTde7SHgX6TstBxf+YcTW8sNz1qmWXS5zQ4tBDI0Ibm13ssfXb8xpc6dp2I/DVRpp8eseEOP/xLTRq8uJpAio02zRYvb76jYnutDSpEErxE8QqCoMfRe1r6TR54Mh0iWZw3R7HDLInWfb0Hw/8ASbharQK4NJxtniaZPW12+/zTjOxs3BZbxdT+H1WiwuPpVZ8qo18alrg4fcgnitvKPVT5P4nh2w+IYr2A42WMyaeigxLVTySuaXTeyUaZxFhuSpf4un9pZmrSVZ7O5V+6fzaw4mmPrBRCqx7uUgrIVKjgdyifCsPVeC9lk/babjoVfjWMkHVVn8XbsEHx+Hqtdc3P5LmHpEamUexzGCb+LOOgVV9V7tSuNangKbaqSQxrE",
+      "back": "https://www.shutterstock.com/image-photo/ginger-cat-sits-back-raised-600nw-2255675491.jpg",
+      "id": 13
+    },
+    {
+      "name": "Rashell",
+      "hp": "7",
+      "front": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+      "back": "https://www.shutterstock.com/image-photo/ginger-cat-sits-back-raised-600nw-2255675491.jpg",
+      "id": 14
     }
   ]
 }
